@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Profissional em Gestão, Marketing, Ciências Biológicas, Paisagismo e áreas técnicas como informática para Internet e sistema. Integra visão estratégica, ambiental e humana para gerar soluções sustentáveis e eficazes.</h2>
+<h2 align="left">Profissional em Gestão, Tecnologia em Marketing, Ciências Biológicas, Paisagismo e áreas técnicas como informática para Internet e sistema. Integra visão estratégica, ambiental e humana para gerar soluções sustentáveis e eficazes.</h2>
 
 ###
 
